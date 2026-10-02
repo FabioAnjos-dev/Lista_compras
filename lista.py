@@ -1,6 +1,6 @@
 print("Lista de Compras:")
 
-item1 = input("Digite um item: ")
+item = input("Digite um item: ")
 quantidade = input("Quantidade: ")
 
 print(item)
